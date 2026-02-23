@@ -1,3 +1,12 @@
+"""
+AETHEL MANIFOLD: TOPOLOGICAL STABILITY PROTOCOL
+Author: Ronald Gordon Jr.
+Inspired by: Sir Roger Penrose & Sir Demis Hassabis
+
+Description: 
+This script implements a geometric constraint (The Metatron Diamond) 
+to stabilize quantum variables against three-body stochastic interference.
+"""
 import matplotlib.pyplot as plt
 import numpy as np
 
